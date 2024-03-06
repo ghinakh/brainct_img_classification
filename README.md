@@ -1,4 +1,4 @@
-Title : Tumor, Cancer, and Aneurysm Classification on Brain CT Image using Convolutional Neural Network
+Title : Tumor, Cancer, and Aneurysm Classification on Brain CT Image using Convolutional Neural Network <br>
 Authors : 
 1. Ghina Khoerunnisa
 2. Bintang Vieshe Mone
